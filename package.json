@@ -1,11 +1,13 @@
 {
-  "homepage": "http://jackchenko.github.io/ADFPortal",
+  "homepage": "http ://jackchenko.github.io/ADFPortal",
   "name": "react-material-dashboard",
   "author": "DeviasIO",
   "licence": "MIT",
   "version": "1.0.0",
   "private": false,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
