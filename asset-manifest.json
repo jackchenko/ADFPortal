@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/ADFPortal/app/static/js/main.66d2bc21.chunk.js",
-    "main.js.map": "/ADFPortal/app/static/js/main.66d2bc21.chunk.js.map",
-    "runtime-main.js": "/ADFPortal/app/static/js/runtime-main.1d43cb49.js",
-    "runtime-main.js.map": "/ADFPortal/app/static/js/runtime-main.1d43cb49.js.map",
-    "static/css/2.847a128f.chunk.css": "/ADFPortal/app/static/css/2.847a128f.chunk.css",
-    "static/js/2.37560b13.chunk.js": "/ADFPortal/app/static/js/2.37560b13.chunk.js",
-    "static/js/2.37560b13.chunk.js.map": "/ADFPortal/app/static/js/2.37560b13.chunk.js.map",
-    "index.html": "/ADFPortal/app/index.html",
-    "static/css/2.847a128f.chunk.css.map": "/ADFPortal/app/static/css/2.847a128f.chunk.css.map",
-    "static/js/2.37560b13.chunk.js.LICENSE.txt": "/ADFPortal/app/static/js/2.37560b13.chunk.js.LICENSE.txt"
+    "main.js": "/ADFPortal/static/js/main.d8733ed9.chunk.js",
+    "main.js.map": "/ADFPortal/static/js/main.d8733ed9.chunk.js.map",
+    "runtime-main.js": "/ADFPortal/static/js/runtime-main.f30bc511.js",
+    "runtime-main.js.map": "/ADFPortal/static/js/runtime-main.f30bc511.js.map",
+    "static/css/2.847a128f.chunk.css": "/ADFPortal/static/css/2.847a128f.chunk.css",
+    "static/js/2.dba29fd4.chunk.js": "/ADFPortal/static/js/2.dba29fd4.chunk.js",
+    "static/js/2.dba29fd4.chunk.js.map": "/ADFPortal/static/js/2.dba29fd4.chunk.js.map",
+    "index.html": "/ADFPortal/index.html",
+    "static/css/2.847a128f.chunk.css.map": "/ADFPortal/static/css/2.847a128f.chunk.css.map",
+    "static/js/2.dba29fd4.chunk.js.LICENSE.txt": "/ADFPortal/static/js/2.dba29fd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d43cb49.js",
+    "static/js/runtime-main.f30bc511.js",
     "static/css/2.847a128f.chunk.css",
-    "static/js/2.37560b13.chunk.js",
-    "static/js/main.66d2bc21.chunk.js"
+    "static/js/2.dba29fd4.chunk.js",
+    "static/js/main.d8733ed9.chunk.js"
   ]
 }
