@@ -1,10 +1,11 @@
 import React from 'react';
+import logo from './logo.png';
 
 const Logo = (props) => {
   return (
     <img
       alt="Logo"
-      src="/static/logo.png"
+      src={logo}
       {...props}
     />
   );
