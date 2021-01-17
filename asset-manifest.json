@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/http%20://jackchenko.github.io/ADFPortal/static/js/main.6d2f40d0.chunk.js",
-    "main.js.map": "/http%20://jackchenko.github.io/ADFPortal/static/js/main.6d2f40d0.chunk.js.map",
-    "runtime-main.js": "/http%20://jackchenko.github.io/ADFPortal/static/js/runtime-main.0c6cae28.js",
-    "runtime-main.js.map": "/http%20://jackchenko.github.io/ADFPortal/static/js/runtime-main.0c6cae28.js.map",
-    "static/css/2.847a128f.chunk.css": "/http%20://jackchenko.github.io/ADFPortal/static/css/2.847a128f.chunk.css",
-    "static/js/2.29a05a6c.chunk.js": "/http%20://jackchenko.github.io/ADFPortal/static/js/2.29a05a6c.chunk.js",
-    "static/js/2.29a05a6c.chunk.js.map": "/http%20://jackchenko.github.io/ADFPortal/static/js/2.29a05a6c.chunk.js.map",
-    "index.html": "/http%20://jackchenko.github.io/ADFPortal/index.html",
-    "static/css/2.847a128f.chunk.css.map": "/http%20://jackchenko.github.io/ADFPortal/static/css/2.847a128f.chunk.css.map",
-    "static/js/2.29a05a6c.chunk.js.LICENSE.txt": "/http%20://jackchenko.github.io/ADFPortal/static/js/2.29a05a6c.chunk.js.LICENSE.txt"
+    "main.js": "/ADFPortal/static/js/main.d8733ed9.chunk.js",
+    "main.js.map": "/ADFPortal/static/js/main.d8733ed9.chunk.js.map",
+    "runtime-main.js": "/ADFPortal/static/js/runtime-main.f30bc511.js",
+    "runtime-main.js.map": "/ADFPortal/static/js/runtime-main.f30bc511.js.map",
+    "static/css/2.847a128f.chunk.css": "/ADFPortal/static/css/2.847a128f.chunk.css",
+    "static/js/2.dba29fd4.chunk.js": "/ADFPortal/static/js/2.dba29fd4.chunk.js",
+    "static/js/2.dba29fd4.chunk.js.map": "/ADFPortal/static/js/2.dba29fd4.chunk.js.map",
+    "index.html": "/ADFPortal/index.html",
+    "static/css/2.847a128f.chunk.css.map": "/ADFPortal/static/css/2.847a128f.chunk.css.map",
+    "static/js/2.dba29fd4.chunk.js.LICENSE.txt": "/ADFPortal/static/js/2.dba29fd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c6cae28.js",
+    "static/js/runtime-main.f30bc511.js",
     "static/css/2.847a128f.chunk.css",
-    "static/js/2.29a05a6c.chunk.js",
-    "static/js/main.6d2f40d0.chunk.js"
+    "static/js/2.dba29fd4.chunk.js",
+    "static/js/main.d8733ed9.chunk.js"
   ]
 }
