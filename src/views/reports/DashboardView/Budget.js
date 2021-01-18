@@ -11,7 +11,7 @@ import {
   colors,
   makeStyles
 } from '@material-ui/core';
-import ArrowDownwardIcon from '@material-ui/icons/ArrowDownward';
+// import ArrowDownwardIcon from '@material-ui/icons/ArrowDownward';
 import MoneyIcon from '@material-ui/icons/Money';
 
 const useStyles = makeStyles((theme) => ({
@@ -72,18 +72,18 @@ const Budget = ({ className, ...rest }) => {
           display="flex"
           alignItems="center"
         >
-          <ArrowDownwardIcon className={classes.differenceIcon} />
+          {/* <ArrowDownwardIcon className={classes.differenceIcon} />
           <Typography
             className={classes.differenceValue}
             variant="body2"
           >
             12%
-          </Typography>
+          </Typography> */}
           <Typography
             color="textSecondary"
             variant="caption"
           >
-            Since last month
+            {/* Since last month */}
           </Typography>
         </Box>
       </CardContent>

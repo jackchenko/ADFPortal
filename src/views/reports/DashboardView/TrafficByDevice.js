@@ -111,7 +111,7 @@ const TrafficByDevice = ({ className, ...rest }) => {
         >
           {devices.map(({
             color,
-            icon: Icon,
+            // icon: Icon,
             title,
             value
           }) => (
@@ -120,7 +120,7 @@ const TrafficByDevice = ({ className, ...rest }) => {
               p={1}
               textAlign="center"
             >
-              <Icon color="action" />
+              {/* <Icon color="action" /> */}
               <Typography
                 color="textPrimary"
                 variant="body1"

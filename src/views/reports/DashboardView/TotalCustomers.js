@@ -11,7 +11,7 @@ import {
   colors,
   makeStyles
 } from '@material-ui/core';
-import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
+// import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
 import PeopleIcon from '@material-ui/icons/PeopleOutlined';
 
 const useStyles = makeStyles((theme) => ({
@@ -72,7 +72,7 @@ const TotalCustomers = ({ className, ...rest }) => {
           display="flex"
           alignItems="center"
         >
-          <ArrowUpwardIcon className={classes.differenceIcon} />
+          {/* <ArrowUpwardIcon className={classes.differenceIcon} />
           <Typography
             className={classes.differenceValue}
             variant="body2"
@@ -84,7 +84,7 @@ const TotalCustomers = ({ className, ...rest }) => {
             variant="caption"
           >
             Since last month
-          </Typography>
+          </Typography> */}
         </Box>
       </CardContent>
     </Card>
