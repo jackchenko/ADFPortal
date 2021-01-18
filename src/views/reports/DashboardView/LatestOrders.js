@@ -68,7 +68,7 @@ const data = [
     ref: 'CDD1045',
     amount: 32.54,
     customer: {
-      name: 'PWG Shanghai - China'
+      name: 'PWC Shanghai - China'
     },
     createdAt: 1554670800000,
     status: 'documents received'
