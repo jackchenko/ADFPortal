@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ADFPortal/static/js/main.10bebcb9.chunk.js",
-    "main.js.map": "/ADFPortal/static/js/main.10bebcb9.chunk.js.map",
+    "main.js": "/ADFPortal/static/js/main.ef154528.chunk.js",
+    "main.js.map": "/ADFPortal/static/js/main.ef154528.chunk.js.map",
     "runtime-main.js": "/ADFPortal/static/js/runtime-main.f30bc511.js",
     "runtime-main.js.map": "/ADFPortal/static/js/runtime-main.f30bc511.js.map",
     "static/css/2.847a128f.chunk.css": "/ADFPortal/static/css/2.847a128f.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f30bc511.js",
     "static/css/2.847a128f.chunk.css",
     "static/js/2.e9030028.chunk.js",
-    "static/js/main.10bebcb9.chunk.js"
+    "static/js/main.ef154528.chunk.js"
   ]
 }
