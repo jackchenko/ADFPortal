@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import clsx from 'clsx';
 import PropTypes from 'prop-types';
+// import banner from 'src/components/banner.jpeg';
 import {
   AppBar,
   Badge,
@@ -36,12 +37,14 @@ const TopBar = ({
     <AppBar
       className={clsx(classes.root, className)}
       elevation={0}
+      style={{ background: '#010226' }}
       {...rest}
     >
-      <Toolbar>
+      <Toolbar style={{ marginLeft: 0 }}>
         <RouterLink to="/">
           <Logo />
         </RouterLink>
+        {/* <img src={banner} alt="bg" width="100%" height="64" /> */}
         <Box flexGrow={1} />
         <Hidden mdDown>
           <IconButton color="inherit">

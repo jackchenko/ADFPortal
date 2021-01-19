@@ -1,11 +1,13 @@
 import React from 'react';
-import logo from './logo.png';
+import logo from './banner.jpg';
 
 const Logo = (props) => {
   return (
     <img
       alt="Logo"
       src={logo}
+      width="auto"
+      height="60px"
       {...props}
     />
   );
