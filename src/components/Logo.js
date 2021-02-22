@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './banner.jpg';
+import logo from './banner.png';
 
 const Logo = (props) => {
   return (

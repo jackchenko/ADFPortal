@@ -23,6 +23,7 @@ const TopBar = ({ className, ...rest }) => {
     <AppBar
       className={clsx(classes.root, className)}
       elevation={0}
+      style={{ background: '#010226' }}
       {...rest}
     >
       <Toolbar className={classes.toolbar}>
